@@ -1,9 +1,5 @@
-package marinalucentini.backend_w7_d3;
+package marinalucentini.backend_w7_d3.adapterPattern;
 
-import marinalucentini.backend_w7_d3.adapterPattern.DataSource;
-import marinalucentini.backend_w7_d3.adapterPattern.Info;
-import marinalucentini.backend_w7_d3.adapterPattern.UserData;
-import marinalucentini.backend_w7_d3.adapterPattern.infoAdapter;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
